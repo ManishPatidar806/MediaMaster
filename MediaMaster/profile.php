@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/index.css" />
   <link rel="stylesheet" href="./css/myProfile.css">
-  <?php require "./includes/links.php" ?>
-  <style>
-body {
-  background-image: url('./img/background5.jpg');
+  <?php require "./includes/links.php" ?> 
+ <style>
+  body {
+  background-image: url('./img/background2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;

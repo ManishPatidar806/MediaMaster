@@ -7,15 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/index.css" />
   <link rel="stylesheet" href="./css/acc.css" />
-  <?php require "./includes/links.php" ?>
- <style>
-  body {
-  background-image: url('./img/milky\ way.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style> 
+  <?php require "./includes/links.php" ?> 
   <title>Sign Up | Dashboard</title>
 </head>
 
@@ -41,7 +33,6 @@
 
   <?php require "./includes/footer.php" ?>
 </body>
-<script src="./js/feedback.js"></script>
 <script src="./js/account-signup.js"></script>
 <script src="./js/navBtn.js"></script>
 </html>

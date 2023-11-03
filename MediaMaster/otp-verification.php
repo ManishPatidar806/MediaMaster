@@ -8,14 +8,6 @@
   <link rel="stylesheet" href="./css/index.css" />
   <link rel="stylesheet" href="./css/acc.css" />
   <?php require "./includes/links.php" ?>
-  <style>
-body {
-  background-image: url('./img/background7.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style> 
   <title>OTP Verification | Account</title>
 </head>
 
@@ -41,7 +33,7 @@ body {
       echo "<script>alert('This email already exist!')</script>";
     else
       echo "<script>alert('No account with this email!')</script>";
-    echo "<script>window.open('./email-verify', '_self')</script>";
+    echo "<script>window.open('./email-verify.php', '_self')</script>";
     setcookie("cms_isValidMail", "false");
   }
   ?>
@@ -63,5 +55,4 @@ body {
 </body>
 <script src="./js/navBtn.js"></script>
 <script src="./js/account-otp-verification.js"></script>
-<script src="./js/feedback.js"></script>
 </html>

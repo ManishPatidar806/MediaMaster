@@ -7,14 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/index.css" />
   <link rel="stylesheet" href="./css/createPost.css" />
-  <style>
-body {
-  background-image: url('./img/background1.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style> 
   <?php require "./includes/links.php" ?>
   <title>Post</title>
 </head>
@@ -141,6 +133,5 @@ body {
   <?php require "./includes/footer.php" ?>
 </body>
 <script src="./js/navBtn.js"></script>
-<script src="./js/feedback.js"></script>
 <script src="./js/createPost.js"></script>
 </html>

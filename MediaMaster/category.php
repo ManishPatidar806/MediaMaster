@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/index.css" />
-  <?php require "./includes/links.php" ?>
+  <?php require "./includes/links.php" ?> 
   <style>
-  body {
+body {
   background-image: url('./img/background2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;

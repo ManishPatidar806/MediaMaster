@@ -8,14 +8,7 @@
   <link rel="stylesheet" href="./css/index.css" />
   <link rel="stylesheet" href="./css/acc.css" />
   <?php require "./includes/links.php" ?>
-  <style>
-body {
-  background-image: url('./img/background5.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style> 
+  
   <title>Sign In | Dashboard</title>
 </head>
 
@@ -45,7 +38,6 @@ body {
 
   <?php require "./includes/footer.php" ?>
 </body>
-<script src="./js/feedback.js"></script>
 <script src="./js/navBtn.js"></script>
 <script src="./js/account-login.js"></script>
 

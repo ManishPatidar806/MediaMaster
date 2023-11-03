@@ -12,25 +12,6 @@
                 <a href="https://instagram.com/manish___1880____?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="><i class="fa-brands fa-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/manish-patidar-9443a3274"><i class="fa-brands fa-linkedin"></i></a>
               </div>
-              <div id="feedbackBtnContainer">
-                <button type="submit" id="feedbackBtn">Share your Opinion!</button>
-              </div>
-            </div>
-    
-            <div id="slide2">
-              <div id="feedbackFormContainer">
-                <button id="feedbackBackBtn">
-                  <i class="fa-solid fa-backward"></i>
-                </button>
-                <div id="feedback">
-                  <div id="title">Write your Opinion!</div>
-                  <textarea
-                    id="feedbackContent"
-                    placeholder="Write here..."
-                  ></textarea>
-                  <button id="shareFeedback" type="submit">Share</button>
-                </div>
-              </div>
             </div>
           </div>
           <div id="developed">developed by Manish</div>

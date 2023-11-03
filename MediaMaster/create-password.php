@@ -7,15 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="./css/index.css" />
   <link rel="stylesheet" href="./css/acc.css" />
-  <?php require "./includes/links.php" ?>
-  <style>
-body {
-  background-image: url('./img/background7.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style> 
+  <?php require "./includes/links.php" ?> 
   <title>Create Password | Account</title>
 </head>
 
@@ -41,6 +33,5 @@ body {
   <?php require_once "./includes/footer.php" ?>
 </body>
 <script src="./js/navBtn.js"></script>
-<script src="./js/feedback.js"></script>
 <script src="./js/account-create-pwd.js"></script>
 </html>

@@ -126,5 +126,4 @@
   <?php require_once "./includes/footer.php" ?>
 </body>
 <script src="./js/navBtn.js"></script>
-<script src="./js/feedback.js"></script>
 </html>

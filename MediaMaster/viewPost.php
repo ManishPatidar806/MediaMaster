@@ -82,7 +82,7 @@
   <footer id="footer">
     <div id="joinNowContainer">
       <div id="text">
-        <span class="lineH">Manage your creativity!</span><br />
+        <span class="lineH">Oversee your creativity!</span><br />
         <span class="lineF">Explore the latest trends and innovations in tech, one byte at a
           time.</span>
       </div>
@@ -104,28 +104,11 @@
           <a href="https://instagram.com/manish___1880____?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="><i class="fa-brands fa-instagram"></i></a>
           <a href="https://www.linkedin.com/in/manish-patidar-9443a3274"><i class="fa-brands fa-linkedin"></i></a>
         </div>
-        <div id="feedbackBtnContainer">
-          <button type="submit" id="feedbackBtn">Share your feedback!</button>
-        </div>
-      </div>
-
-      <div id="slide2">
-        <div id="feedbackFormContainer">
-          <button id="feedbackBackBtn">
-            <i class="fa-solid fa-backward"></i>
-          </button>
-          <div id="feedback">
-            <div id="title">Write your Feedback!</div>
-            <textarea id="feedbackContent" placeholder="Write here..."></textarea>
-            <button id="shareFeedback" type="submit">Share</button>
-          </div>
-        </div>
       </div>
     </div>
     <div id="developed">developed by Manish</div>
   </footer>
 </body>
 <script src="./js/navBtn.js"></script>
-<script src="./js/feedback.js"></script>
 <script src="./js/view.js"></script>
 </html>

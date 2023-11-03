@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(135deg, rgb(148, 185, 209), rgb(37, 112, 188));
+    background: linear-gradient(135deg, rgb(148, 185, 209), #C2D9FF);
 }
 
 #viewPostTitle {

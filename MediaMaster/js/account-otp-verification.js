@@ -45,10 +45,10 @@ function checkOTP() {
 
 function sendOTP(otp) {
   Email.send({
-    SecureToken: "a5d3f4a6-abbf-455b-9520-60da3ef646c9",
+    SecureToken: "cea665f0-f786-4cee-b1b8-fd14858636d1",
     To: myemail,
-    From: "manishpatidar306906@gmail.com",
-    Subject: "MM OTP verification",
+    From: "prasantpoddar27@gmail.com",
+    Subject: "MS OTP verification",
     Body: "Your OTP is: " + otp,
   }).then((message) => alert(message));
 }
