@@ -20,3 +20,9 @@ User can perform the following operations:
     : Check and manage all user's blogs
     : Check user information
 - Log Out
+
+PopularImages :
+![Screenshot 2023-11-03 172524](https://github.com/ManishPatidar806/MediaMaster/assets/144804537/8651a48d-2499-4ffb-bffb-cc71247fad7d)
+<br>
+<br>
+![Screenshot 2023-11-03 172642](https://github.com/ManishPatidar806/MediaMaster/assets/144804537/e073812e-f77a-4862-8981-297a589efba9)
